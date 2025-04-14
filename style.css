@@ -1,0 +1,40 @@
+body {
+    background-color: #fff8e1;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  h1 {
+    color: #4a2c0d;
+  }
+  img {
+    max-width: 100%;
+    border: 3px solid #4a2c0d;
+    margin: 0 auto;
+    display: block;
+  }
+  figure {
+    border: 1px solid #4a2c0d;
+    padding: 10px;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  figcaption {
+    font-style: italic;
+    color: #666;
+  }
+  ul, ol {
+    display: inline-block;
+    text-align: left;
+      margin: 20px auto;
+  }
+  ul li, ol li {
+    margin: 5px 0;
+  }
+  section {
+   max-width: 600px;
+   margin: 0 auto;
+  }
+  footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+  }
